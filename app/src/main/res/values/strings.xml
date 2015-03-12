@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kurier_1</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="witaj_mariusz">Witaj Mariusz!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_synchronizuj">Synchronizuj dane \n\n pobierz aktualną listę paczek do pobrania</string>
+    <string name="button_zapakuj_paczki">Zapakuj paczki \n\n wskaż paczki spakowane do samochodu</string>
+    <string name="button_rozpocznij_prace">Podgląd trasy \n\n podejrzyj dzisiajeszą trasę</string>
+    <string name="button_podglad_trasy">Rozpocznij pracę \n\n włącz nawigację</string>
+    <string name="data">12 marca 2015</string>
+    <string name="zaznacz_paczki">Zaznacz paczki</string>
+    <string name="button_anuluj">anuluj</string>
+    <string name="button_zapisz">zapisz</string>
+    <string-array name="statusy_paczki">
+        <item>W doręczeniu</item>
+        <item>Nowa paczka</item>
+        <item>Nadana</item>
+        <item>Doręczona</item>
+    </string-array>
+</resources>
